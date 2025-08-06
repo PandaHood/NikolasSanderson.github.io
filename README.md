@@ -4,10 +4,10 @@ title: "Your Name"
 ---
 
 <!-- HERO / PROFILE IMAGE -->
-# Hi, I’m Your Name 👋
+# Nikolas Sanderson 👋
 
 <p align="center">
-  <img src="/assets/images/profile.jpg" alt="Your Name" width="200" style="border-radius: 50%;" />
+  <img src="img/Me.PNG" alt="Your Name" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
