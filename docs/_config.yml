@@ -1,2 +1,21 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+
 title: Nikolas Sanderson
+author:
+  name: Nikolas Sanderson
+  email: sanderson.n@northeastern.edu
+
+# top nav links
+nav:
+  - About: /about/
+  - CV: /cv/
+  - Google Scholar: https://scholar.google.com/citations?user=YOUR_ID
+
+# homepage “hero” image
+home:
+  image: img/Me.png
+  image_alt: “"
+  image_w: 300
+  image_h: 300
+  intro: >
+    Computer Engineering @ Northeastern University.  SLAM | Motion Planning | Robotics
